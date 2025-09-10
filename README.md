@@ -1,1 +1,2 @@
-file:///F:/web_dev/learning_html/index.html
+My second learning project (HTML)
+https://connectaiadnan.github.io/project_2/
